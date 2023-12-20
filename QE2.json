@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Social Preferences",
+    "images": ["https://live.staticflickr.com/65535/53408303176_923e93507c.jpg", "https://live.staticflickr.com/65535/53408484748_4270125ea8.jpg"],
+    "options": [
+      "I love meeting new people and enjoy the energy of large gatherings.",
+      "I prefer quieter activities or spending time alone or with a close-knit group."
+    ],
+    "personality": ["e", "i"]
+  },
+  {
+    "question": "Weekend Plans",
+    "images": ["https://live.staticflickr.com/65535/53408305606_99fbc3976a.jpg", "https://live.staticflickr.com/65535/53408489813_c1fa7757b7_z.jpg"],
+    "options": [
+      "I often seek out social activities or events to attend.",
+      "I prefer quieter activities or spending time alone or with a close-knit group."
+    ],
+    "personality": ["e", "i"]
+  },
+  {
+    "question": "Communication Style",
+    "images": ["https://live.staticflickr.com/65535/53408310346_a7c3c9f3fb_z.jpg", "https://live.staticflickr.com/65535/53408491733_b3e1270279_z.jpg"],
+    "options": [
+      "I don't mind making phone calls and find it easy to reach out to others.",
+      "I prefer texting or other written forms of communication and avoid phone calls when possible."
+    ],
+    "personality": ["e", "i"]
+  },
+  {
+    "question": "Project Approach",
+    "images": ["https://live.staticflickr.com/65535/53408749305_e84af4e597.jpg", "https://live.staticflickr.com/65535/53408648464_de16535066_z.jpg"],
+    "options": [
+      "I prefer to start and finish one project before moving on to the next.",
+      "I like juggling multiple projects and exploring different ideas simultaneously."
+    ],
+    "personality": ["s", "n"]
+  },
+  {
+    "question": "Media Preferences",
+    "images": ["https://live.staticflickr.com/65535/53408495543_0d72eda222.jpg", "https://live.staticflickr.com/65535/53408649589_1055acdc7d.jpg"],
+    "options": [
+      "I enjoy works that are clear and straightforward, with a concrete plot.",
+      "I like works that leave room for interpretation and exploration of different meanings."
+    ],
+    "personality": ["s", "n"]
+  },
+  {
+    "question": "Interest in Discussions",
+    "images": ["https://live.staticflickr.com/65535/53407397512_553f8b8874.jpg", "https://live.staticflickr.com/65535/53407395087_78c0463dee.jpg"],
+    "options": [
+      "Practical details, facts, and specific examples.",
+      "Theoretical concepts, possibilities, and brainstorming ideas."
+    ],
+    "personality": ["s", "n"]
+  },
+  {
+    "question": "Decision-Making",
+    "images": ["https://live.staticflickr.com/65535/53407396037_4dc24dcc10.jpg", "https://live.staticflickr.com/65535/53407397512_553f8b8874.jpg"],
+    "options": [
+      "I rely on logic, consistency, and objective analysis to make decisions.",
+      "I consider the impact on people involved, their values, and the overall harmony in the situation."
+    ],
+    "personality": ["t", "f"]
+  },
+  {
+    "question": "Feedback Approach",
+    "images": ["https://live.staticflickr.com/65535/53408320661_4613386088.jpg", "https://live.staticflickr.com/65535/53408321061_00241f8399.jpg"],
+    "options": [
+      "I focus on pointing out specific facts, areas for improvement, and objective observations.",
+      "I consider the individual's feelings, emphasize positive aspects, and ensure feedback is delivered with sensitivity."
+    ],
+    "personality": ["t", "f"]
+  },
+  {
+    "question": "Goal Prioritization",
+    "images": ["https://live.staticflickr.com/65535/53407399047_f9ffc710f8.jpg", "https://live.staticflickr.com/65535/53407399617_c42cbe5bf0.jpg"],
+    "options": [
+      "I prioritize based on logical considerations, deadlines, and the most efficient approach.",
+      "I consider the emotional importance of tasks, relationships, and the overall impact on people involved."
+    ],
+    "personality": ["t", "f"]
+  },
+  {
+    "question": "Planning Approach",
+    "images": ["https://live.staticflickr.com/65535/53408503623_1212c0fd8a.jpg", "https://live.staticflickr.com/65535/53408761430_4d44c1e0fc.jpg"],
+    "options": [
+      "I like to use schedules and lists to organize my tasks and activities.",
+      "I prefer to go with the flow and adapt my plans based on how I feel in the moment."
+    ],
+    "personality": ["j", "p"]
+  },
+  {
+    "question": "Handling Deadlines",
+    "images": ["https://live.staticflickr.com/65535/53408659189_61bd6a78fb.jpg", "https://live.staticflickr.com/65535/53408506338_1a28387952.jpg"],
+    "options": [
+      "I try to complete tasks well before the deadline to ensure everything is in order.",
+      "I often work best under pressure and may leave tasks until the last possible moment."
+    ],
+    "personality": ["j", "p"]
+  },
+  {
+    "question": "Adaptability to Changes",
+    "images": ["https://live.staticflickr.com/65535/53408661199_af5fdffb9f.jpg", "https://live.staticflickr.com/65535/53408508998_1fdb0c9119.jpg"],
+    "options": [
+      "I prioritize getting back on track quickly and minimizing disruptions.",
+      "I may see the opportunity in the change, adapt easily, and go with the flow."
+    ],
+    "personality": ["j", "p"]
+  }
+]
